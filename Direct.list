@@ -8,7 +8,7 @@ DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,ipleak
+
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
