@@ -7,6 +7,8 @@ DOMAIN-SUFFIX,qichiyu.com
 #自用机场
 DOMAIN-SUFFIX,xueshanlink.com
 
+DOMAIN-SUFFIX,ipeak.net
+
 # 域名关键字匹配
 
 DOMAIN-KEYWORD,1e100
