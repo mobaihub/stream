@@ -3,6 +3,8 @@
 # 域名后缀匹配
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,qichiyu.com
+
+#自用机场
 DOMAIN-SUFFIX,xueshanlink.com
 
 # 域名关键字匹配
