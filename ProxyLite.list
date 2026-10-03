@@ -4,12 +4,6 @@
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,qichiyu.com
 
-#自用机场
-DOMAIN-SUFFIX,xueshanlink.com
-#添加机场地址，20261002
-DOMAIN-SUFFIX,顶级机场.com
-DOMAIN-KEYWORD,xueshan
-
 #添加DNS检测，20261002
 DOMAIN-KEYWORD,ipleak
 DOMAIN-SUFFIX,ipeak.net
